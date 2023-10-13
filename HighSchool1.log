@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  HighSchool1.cpp
+d:\1s\数据结构\数据结构\大作业\highschool1\highschool1\Graph.h(11): warning C4005: 'INFINITY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+d:\1s\数据结构\数据结构\大作业\highschool1\highschool1\ReadFile.h(39): warning C4018: '<': signed/unsigned mismatch
+d:\1s\数据结构\数据结构\大作业\highschool1\highschool1\ReadFile.h(46): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 665 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HighSchool1.vcxproj -> D:\1s\数据结构\数据结构\大作业\HighSchool1\Release\HighSchool1.exe
+  HighSchool1.vcxproj -> D:\1s\数据结构\数据结构\大作业\HighSchool1\Release\HighSchool1.pdb (Full PDB)
